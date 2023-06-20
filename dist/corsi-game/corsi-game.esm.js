@@ -1,0 +1,2 @@
+import{p as e,b as o}from"./p-d25cca5e.js";export{s as setNonce}from"./p-d25cca5e.js";const t=()=>{const s=import.meta.url;const o={};if(s!==""){o.resourcesUrl=new URL(".",s).href}return e(o)};t().then((e=>o([["p-33c21397",[[0,"component-game-corsi",{player_id:[2],education:[1],sex:[2],birthYear:[2,"birth-year"],region:[2],customLang:[1,"custom-lang"],difficulty:[2],rows:[2],cols:[2],pause:[64],resume:[64],stop:[64],restart:[64]}]]]],e)));
+//# sourceMappingURL=corsi-game.esm.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"corsi-log.js","sourceRoot":"","sources":["../../../../src/models/game-models/corsi-log.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,QAAQ;EAArB;IACI,kBAAa,GAAW,CAAC,CAAC;EAC9B,CAAC;CAAA","sourcesContent":["export class CorsiLog{\r\n    nofBadAnswers: number = 0;\r\n}"]}
